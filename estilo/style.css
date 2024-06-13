@@ -54,7 +54,7 @@ section{
 }
 section > p {
     padding-bottom: 2em;
-    text-shadow:1px 1px 0px  rgba(0, 0, 0, 0.214);
+    text-shadow:1px 0px  rgba(0, 0, 0, 0.214);
 }
 section.normal{
     background-color: white;
